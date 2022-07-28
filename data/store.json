@@ -1,0 +1,33 @@
+[
+  {
+    "Furniture" : [ 
+      { 
+        "Product": "FunitureProduct1"
+      }
+    ],
+
+    "Toys": [
+      { 
+        "Product": "ToyProduct1"
+      }
+    ],
+
+    "Food":  [
+      { 
+        "Product": "FoodProduct1"
+      }
+    ],
+
+    "Litter": [
+      { 
+        "Product": "LitterProduct1"
+      }
+    ],
+
+    "Accessories": [
+      { 
+        "Product": "AccessoriesProduct1"
+      }
+    ]
+  }
+]
