@@ -1,0 +1,67 @@
+[
+  {
+    "category": "furniture",
+    "products": [
+      {
+        "productName": "furnitureProduct1",
+        "productNumber": 1
+      },
+      {
+        "productName": "furnitureProduct2",
+        "productNumber": 2
+      }
+    ]
+  },
+  {
+    "category": "toys",
+    "products": [
+      {
+        "productName": "toyProduct1",
+        "productNumber": 3
+      },
+      {
+        "productName": "toyProduct2",
+        "productNumber": 4
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "products": [
+      {
+        "productName": "foodProduct1",
+        "productNumber": 5
+      },
+      {
+        "productName": "foodProduct2",
+        "productNumber": 6
+      }
+    ]
+  },
+  {
+    "category": "litter",
+    "products": [
+      {
+        "productName": "litterProduct1",
+        "productNumber": 7
+      },
+      {
+        "productName": "litterProduct2",
+        "productNumber": 8
+      }
+    ]
+  },
+  {
+    "category": "accessories",
+    "products": [
+      {
+        "productName": "accessoriesProduct1",
+        "productNumber": 9
+      },
+      {
+        "productName": "accessoriesProduct2",
+        "productNumber": 10
+      }
+    ]
+  }
+]

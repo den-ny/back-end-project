@@ -1,0 +1,82 @@
+[
+  {
+    "productNumber": 1,
+    "name": "FunitureProduct1",
+    "category": "Furniture",
+    "photoSrc": "../images/furniture-product-1.png",
+    "description": "Description of the product",
+    "price": 20.00
+  },
+  {
+    "productNumber": 2,
+    "name": "FunitureProduct2",
+    "category": "Furniture",
+    "photoSrc": "../images/furniture-product-2.png",
+    "description": "Description of the product",
+    "price": 20.00
+  },
+  {
+    "productNumber": 3,
+    "name": "ToyProduct1",
+    "category": "Toys",
+    "photoSrc": "../images/toy-product-1.png",
+    "description": "Description of the product",
+    "price": 20.00
+  },
+  {
+    "productNumber": 4,
+    "name": "ToyProduct2",
+    "category": "Toys",
+    "photoSrc": "../images/toy-product-2.png",
+    "description": "Description of the product",
+    "price": 20.00
+  },
+  {
+    "productNumber": 5,
+    "name": "FoodProduct1",
+    "category": "Food",
+    "photoSrc": "../images/food-product-1.png",
+    "description": "Description of the product",
+    "price": 20.00
+  },
+  {
+    "productNumber": 6,
+    "name": "FoodProduct2",
+    "category": "Food",
+    "photoSrc": "../images/food-product-2.png",
+    "description": "Description of the product",
+    "price": 20.00
+  },
+  {
+    "productNumber": 7,
+    "name": "LitterProduct1",
+    "category": "Litter",
+    "photoSrc": "../images/litter-product-1.png",
+    "description": "Description of the product",
+    "price": 20.00
+  },
+  {
+    "productNumber": 8,
+    "name": "LitterProduct2",
+    "category": "Litter",
+    "photoSrc": "../images/litter-product-2.png",
+    "description": "Description of the product",
+    "price": 20.00
+  },
+  {
+    "productNumber": 9,
+    "name": "AccessoriesProduct1",
+    "category": "Accessories",
+    "photoSrc": "../images/accessories-product-1.png",
+    "description": "Description of the product",
+    "price": 20.00
+  },
+  {
+    "productNumber": 10,
+    "name": "AccessoriesProduct2",
+    "category": "Accessories",
+    "photoSrc": "../images/accessories-product-2.png",
+    "description": "Description of the product",
+    "price": 20.00
+  }
+]

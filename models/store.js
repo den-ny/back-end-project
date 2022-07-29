@@ -1,8 +1,10 @@
 import mongoose from 'mongoose'
 
 const Store = new mongoose.Schema({
-  Category: [{
-    Product: String
+  category: String,
+  products: [{
+    productName: String,
+    productNumber: Number
   }]
 })
 
