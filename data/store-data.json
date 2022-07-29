@@ -1,6 +1,6 @@
 [
   {
-    "category": "furniture",
+    "category": "Furniture",
     "products": [
       {
         "productName": "furnitureProduct1",
@@ -9,58 +9,118 @@
       {
         "productName": "furnitureProduct2",
         "productNumber": 2
-      }
+      },
+      {
+      "productName": "furnitureProduct2",
+        "productNumber": 3
+    },
+    {
+      "productName": "furnitureProduct2",
+        "productNumber": 4
+    },
+    {
+      "productName": "furnitureProduct2",
+        "productNumber": 5
+    }
     ]
   },
   {
-    "category": "toys",
+    "category": "Food",
     "products": [
       {
         "productName": "toyProduct1",
-        "productNumber": 3
+        "productNumber": 6
       },
       {
         "productName": "toyProduct2",
-        "productNumber": 4
-      }
-    ]
-  },
-  {
-    "category": "food",
-    "products": [
-      {
-        "productName": "foodProduct1",
-        "productNumber": 5
-      },
-      {
-        "productName": "foodProduct2",
-        "productNumber": 6
-      }
-    ]
-  },
-  {
-    "category": "litter",
-    "products": [
-      {
-        "productName": "litterProduct1",
         "productNumber": 7
       },
       {
-        "productName": "litterProduct2",
+        "productName": "toyProduct1",
         "productNumber": 8
+      },
+      {
+        "productName": "toyProduct1",
+        "productNumber": 9
+      },
+      {
+        "productName": "toyProduct1",
+        "productNumber": 10
       }
     ]
   },
   {
-    "category": "accessories",
+    "category": "Toys",
     "products": [
       {
-        "productName": "accessoriesProduct1",
-        "productNumber": 9
+        "productName": "Crinkly Toy Balls",
+        "productNumber": 11
       },
       {
-        "productName": "accessoriesProduct2",
-        "productNumber": 10
+        "productName": "Banana Toy",
+        "productNumber": 12
+      },
+      {
+        "productName": "Butterfly Toy",
+        "productNumber": 13
+      },
+      {
+        "productName": "String Teaser Toy",
+        "productNumber": 14
+      },
+      {
+        "productName": "Cat Tunnel",
+        "productNumber": 15
+      }
+    ]
+  },
+  {
+    "category": "Accessories",
+    "products": [
+      {
+        "productName": "litterProduct1",
+        "productNumber": 16
+      },
+      {
+        "productName": "litterProduct2",
+        "productNumber": 17
+      },
+      {
+        "productName": "litterProduct1",
+        "productNumber": 18
+      },
+      {
+        "productName": "litterProduct1",
+        "productNumber": 19
+      },
+      {
+        "productName": "litterProduct1",
+        "productNumber": 20
+      }
+    ]
+  },
+  {
+    "category": "Litter",
+    "products": [
+      {
+        "productName": "Dust free Litter",
+        "productNumber": 21
+      },
+      {
+        "productName": "Light Weight Litter",
+        "productNumber": 22
+      },
+      {
+        "productName": "Unscented Litter",
+        "productNumber": 23
+      },
+      {
+        "productName": "Unscented Litter",
+        "productNumber": 24
+      },
+      {
+        "productName": "Multi-cat Litter",
+        "productNumber": 25
       }
     ]
   }
