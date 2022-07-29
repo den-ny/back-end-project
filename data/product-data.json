@@ -129,7 +129,7 @@
     "productNumber": 21,
     "name": "Dust free Litter",
     "category": "Litter",
-    "photoSrc": "../images/accessories-product-2.png",
+    "photoSrc": "https://i.imgur.com/nJdAoMd.jpeg",
     "description": "Dust free litter",
     "price": 15.00
   }
@@ -137,7 +137,7 @@
     "productNumber": 22,
     "name": "Light Weight Litter",
     "category": "Litter",
-    "photoSrc": "../images/accessories-product-2.png",
+    "photoSrc": "https://i.imgur.com/uMJ37yy.jpg",
     "description": "Light Weight Litter",
     "price": 14.00
   }
@@ -145,7 +145,7 @@
     "productNumber": 23,
     "name": "Unscented Litter",
     "category": "Litter",
-    "photoSrc": "../images/accessories-product-2.png",
+    "photoSrc": "https://i.imgur.com/xFfbuvj.jpg",
     "description": "Unscented litter",
     "price": 12.00
   }
@@ -153,7 +153,7 @@
     "productNumber": 24,
     "name": "Natural Litter",
     "category": "Litter",
-    "photoSrc": "../images/accessories-product-2.png",
+    "photoSrc": "https://i.imgur.com/aiUo8w9.jpg",
     "description": "Ultra Natural litter",
     "price": 18.00
   }
@@ -161,7 +161,7 @@
     "productNumber": 25,
     "name": "Multi-cat Litter",
     "category": "Litter",
-    "photoSrc": "../images/accessories-product-2.png",
+    "photoSrc": "https://i.imgur.com/5GQ8O4K.jpg",
     "description": "Multi-cat litter",
     "price": 16.00
   }
