@@ -85,7 +85,7 @@
     "productNumber": 11,
     "name": "Crinkly Toy Balls",
     "category": "Toys",
-    "photoSrc": "../images/accessories-product-2.png",
+    "photoSrc": "https://i.imgur.com/kIvScHo.jpg",
     "description": "Crinkly toy balls",
     "price": 5.00
   }
@@ -93,7 +93,7 @@
     "productNumber": 12,
     "name": "Banana Toy",
     "category": "Toys",
-    "photoSrc": "../images/accessories-product-2.png",
+    "photoSrc": "https://i.imgur.com/iXo6wwI.jpg",
     "description": "Plush banana filled with catnip",
     "price": 10.00
   }
@@ -101,15 +101,15 @@
     "productNumber": 13,
     "name": "Butterfly Toy",
     "category": "Toys",
-    "photoSrc": "../images/accessories-product-2.png",
-    "description": "Electruc butterflies with spinning balls for cats to chase",
+    "photoSrc": "https://i.imgur.com/AEHpvmc.jpg",
+    "description": "Electric butterflies with spinning balls for cats to chase",
     "price": 40.00
   }
   {
     "productNumber": 14,
     "name": "String Teaser Toy",
     "category": "Toys",
-    "photoSrc": "../images/accessories-product-2.png",
+    "photoSrc": "https://i.imgur.com/Tkv87Ht.jpg",
     "description": "String atttached to pole for cats to chase",
     "price": 10.00
   }
@@ -117,7 +117,7 @@
     "productNumber": 15,
     "name": "Cat Tunnel",
     "category": "Toys",
-    "photoSrc": "../images/accessories-product-2.png",
+    "photoSrc": "https://i.imgur.com/ce8nqOQ.jpg",
     "description": "Tunnel for cats to hide, nap, and play in",
     "price": 20.00
   }
