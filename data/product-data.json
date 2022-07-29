@@ -79,4 +79,90 @@
     "description": "Description of the product",
     "price": 20.00
   }
+
+
+  {
+    "productNumber": 11,
+    "name": "Crinkly Toy Balls",
+    "category": "Toys",
+    "photoSrc": "../images/accessories-product-2.png",
+    "description": "Crinkly toy balls",
+    "price": 5.00
+  }
+  {
+    "productNumber": 12,
+    "name": "Banana Toy",
+    "category": "Toys",
+    "photoSrc": "../images/accessories-product-2.png",
+    "description": "Plush banana filled with catnip",
+    "price": 10.00
+  }
+  {
+    "productNumber": 13,
+    "name": "Butterfly Toy",
+    "category": "Toys",
+    "photoSrc": "../images/accessories-product-2.png",
+    "description": "Electruc butterflies with spinning balls for cats to chase",
+    "price": 40.00
+  }
+  {
+    "productNumber": 14,
+    "name": "String Teaser Toy",
+    "category": "Toys",
+    "photoSrc": "../images/accessories-product-2.png",
+    "description": "String atttached to pole for cats to chase",
+    "price": 10.00
+  }
+  {
+    "productNumber": 15,
+    "name": "Cat Tunnel",
+    "category": "Toys",
+    "photoSrc": "../images/accessories-product-2.png",
+    "description": "Tunnel for cats to hide, nap, and play in",
+    "price": 20.00
+  }
+
+
+
+
+  {
+    "productNumber": 21,
+    "name": "Dust free Litter",
+    "category": "Litter",
+    "photoSrc": "../images/accessories-product-2.png",
+    "description": "Dust free litter",
+    "price": 15.00
+  }
+  {
+    "productNumber": 22,
+    "name": "Light Weight Litter",
+    "category": "Litter",
+    "photoSrc": "../images/accessories-product-2.png",
+    "description": "Light Weight Litter",
+    "price": 14.00
+  }
+  {
+    "productNumber": 23,
+    "name": "Unscented Litter",
+    "category": "Litter",
+    "photoSrc": "../images/accessories-product-2.png",
+    "description": "Unscented litter",
+    "price": 12.00
+  }
+  {
+    "productNumber": 24,
+    "name": "Natural Litter",
+    "category": "Litter",
+    "photoSrc": "../images/accessories-product-2.png",
+    "description": "Ultra Natural litter",
+    "price": 18.00
+  }
+  {
+    "productNumber": 25,
+    "name": "Multi-cat Litter",
+    "category": "Litter",
+    "photoSrc": "../images/accessories-product-2.png",
+    "description": "Multi-cat litter",
+    "price": 16.00
+  }
 ]
