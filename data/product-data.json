@@ -1,7 +1,7 @@
 [
   {
     "productNumber": 1,
-    "name": "FunitureProduct1",
+    "productName": "FunitureProduct1",
     "category": "Furniture",
     "photoSrc": "../images/furniture-product-1.png",
     "description": "Description of the product",
@@ -9,7 +9,7 @@
   },
   {
     "productNumber": 2,
-    "name": "FunitureProduct2",
+    "productName": "FunitureProduct2",
     "category": "Furniture",
     "photoSrc": "../images/furniture-product-2.png",
     "description": "Description of the product",
@@ -17,31 +17,31 @@
   },
   {
     "productNumber": 3,
-    "name": "ToyProduct1",
-    "category": "Toys",
+    "productName": "ToyProduct1",
+    "category": "Furniture",
     "photoSrc": "../images/toy-product-1.png",
     "description": "Description of the product",
     "price": 20.00
   },
   {
     "productNumber": 4,
-    "name": "ToyProduct2",
-    "category": "Toys",
+    "productName": "ToyProduct2",
+    "category": "Furniture",
     "photoSrc": "../images/toy-product-2.png",
     "description": "Description of the product",
     "price": 20.00
   },
   {
     "productNumber": 5,
-    "name": "FoodProduct1",
-    "category": "Food",
+    "productName": "FoodProduct1",
+    "category": "Furniture",
     "photoSrc": "../images/food-product-1.png",
     "description": "Description of the product",
     "price": 20.00
   },
   {
     "productNumber": 6,
-    "name": "FoodProduct2",
+    "productName": "FoodProduct2",
     "category": "Food",
     "photoSrc": "../images/food-product-2.png",
     "description": "Description of the product",
@@ -49,34 +49,120 @@
   },
   {
     "productNumber": 7,
-    "name": "LitterProduct1",
-    "category": "Litter",
+    "productName": "LitterProduct1",
+    "category": "Food",
     "photoSrc": "../images/litter-product-1.png",
     "description": "Description of the product",
     "price": 20.00
   },
   {
     "productNumber": 8,
-    "name": "LitterProduct2",
-    "category": "Litter",
+    "productName": "LitterProduct2",
+    "category": "Food",
     "photoSrc": "../images/litter-product-2.png",
     "description": "Description of the product",
     "price": 20.00
   },
   {
     "productNumber": 9,
-    "name": "AccessoriesProduct1",
-    "category": "Accessories",
+    "productName": "AccessoriesProduct1",
+    "category": "Food",
     "photoSrc": "../images/accessories-product-1.png",
     "description": "Description of the product",
     "price": 20.00
   },
   {
     "productNumber": 10,
-    "name": "AccessoriesProduct2",
-    "category": "Accessories",
+    "productName": "AccessoriesProduct2",
+    "category": "Food",
     "photoSrc": "../images/accessories-product-2.png",
     "description": "Description of the product",
     "price": 20.00
+  },
+
+
+  {
+    "productNumber": 11,
+    "productName": "Crinkly Toy Balls",
+    "category": "Toys",
+    "photoSrc": "https://i.imgur.com/kIvScHo.jpg",
+    "description": "Crinkly toy balls",
+    "price": 5.00
+  },
+  {
+    "productNumber": 12,
+    "productName": "Banana Toy",
+    "category": "Toys",
+    "photoSrc": "https://i.imgur.com/iXo6wwI.jpg",
+    "description": "Plush banana filled with catnip",
+    "price": 10.00
+  },
+  {
+    "productNumber": 13,
+    "productName": "Butterfly Toy",
+    "category": "Toys",
+    "photoSrc": "https://i.imgur.com/AEHpvmc.jpg",
+    "description": "Electric butterflies with spinning balls for cats to chase",
+    "price": 40.00
+  },
+  {
+    "productNumber": 14,
+    "productName": "String Teaser Toy",
+    "category": "Toys",
+    "photoSrc": "https://i.imgur.com/Tkv87Ht.jpg",
+    "description": "String atttached to pole for cats to chase",
+    "price": 10.00
+  },
+  {
+    "productNumber": 15,
+    "productName": "Cat Tunnel",
+    "category": "Toys",
+    "photoSrc": "https://i.imgur.com/ce8nqOQ.jpg",
+    "description": "Tunnel for cats to hide, nap, and play in",
+    "price": 20.00
+  },
+
+
+
+
+  {
+    "productNumber": 21,
+    "productName": "Dust free Litter",
+    "category": "Litter",
+    "photoSrc": "https://i.imgur.com/nJdAoMd.jpeg",
+    "description": "Dust free litter",
+    "price": 15.00
+  },
+  {
+    "productNumber": 22,
+    "productName": "Light Weight Litter",
+    "category": "Litter",
+    "photoSrc": "https://i.imgur.com/uMJ37yy.jpg",
+    "description": "Light Weight Litter",
+    "price": 14.00
+  },
+  {
+    "productNumber": 23,
+    "productName": "Unscented Litter",
+    "category": "Litter",
+    "photoSrc": "https://i.imgur.com/xFfbuvj.jpg",
+    "description": "Unscented litter",
+    "price": 12.00
+  },
+  {
+    "productNumber": 24,
+    "productName": "Natural Litter",
+    "category": "Litter",
+    "photoSrc": "https://i.imgur.com/aiUo8w9.jpg",
+    "description": "Ultra Natural litter",
+    "price": 18.00
+  },
+  {
+    "productNumber": 25,
+    "productName": "Multi-cat Litter",
+    "category": "Litter",
+    "photoSrc": "https://i.imgur.com/5GQ8O4K.jpg",
+    "description": "Multi-cat litter",
+    "price": 16.00
   }
 ]

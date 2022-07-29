@@ -1,9 +1,9 @@
 import mongoose from 'mongoose'
 import db from './connection.js'
-import Store from './models/Store.js'
-import storeData from './data/storeData.json' assert {type: 'json'}
-import Product from './models/Product.js'
-import productData from './data/productData.json' assert {type: 'json'}
+import Store from './models/store.js'
+import storeData from './data/store-data.json' assert {type: 'json'}
+import Product from './models/product.js'
+import productData from './data/product-data.json' assert {type: 'json'}
 import express from 'express'
 
 const app = express()
