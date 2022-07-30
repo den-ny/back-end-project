@@ -1,15 +1,22 @@
-import mongoose from 'mongoose'
-import db from './connection.js'
-import Store from './models/store.js'
-import storeData from './data/store-data.json' assert {type: 'json'}
-import Product from './models/product.js'
-import productData from './data/product-data.json' assert {type: 'json'}
 import express from 'express'
+import cors from "cors"
+import morgan from "morgan"
+
+import db from './db/connection.js'
+import routes from './routes/index.js'
 
 const app = express()
+const PORT = process.env.PORT || 4000
 
-Store.deleteMany({})
-  .then(() => Product.deleteMany({}))
-  .then(() => Store.insertMany(storeData))
-  .then(() => Product.insertMany(productData))
-  .then(() => mongoose.disconnect())
+app.use(express.json())
+app.use(cors())
+app.use(morgan("dev"))
+
+app.use("/", routes)
+
+db.on("connected", () => {
+  console.clear()
+  console.log("connected to mongodb")
+  app.listen(PORT,
+    () => console.log(`on port ${PORT}`))
+})
