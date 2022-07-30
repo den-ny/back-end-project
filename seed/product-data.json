@@ -79,8 +79,6 @@
     "description": "Description of the product",
     "price": 20.00
   },
-
-
   {
     "productNumber": 11,
     "productName": "Crinkly Toy Balls",
@@ -121,10 +119,6 @@
     "description": "Tunnel for cats to hide, nap, and play in",
     "price": 20.00
   },
-
-
-
-
   {
     "productNumber": 21,
     "productName": "Dust free Litter",
