@@ -1,3 +1,4 @@
+import db from "../db/connection.js"
 import Store from '../models/store.js'
 import storeData from './store-data.json' assert {type: 'json'}
 import Product from '../models/product.js'
@@ -7,4 +8,4 @@ Store.deleteMany({})
   .then(() => Product.deleteMany({}))
   .then(() => Store.insertMany(storeData))
   .then(() => Product.insertMany(productData))
-  .then(() => mongoose.disconnect())
+  .then(() => db.close())
