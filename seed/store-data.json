@@ -3,48 +3,48 @@
     "category": "Furniture",
     "products": [
       {
-        "productName": "furnitureProduct1",
+        "productName": "Covered Bed",
         "productNumber": 1
       },
       {
-        "productName": "furnitureProduct2",
+        "productName": "Bolster Bed",
         "productNumber": 2
       },
       {
-      "productName": "furnitureProduct2",
+        "productName": "Pillow Bed",
         "productNumber": 3
-    },
-    {
-      "productName": "furnitureProduct2",
+      },
+      {
+        "productName": "Orthopedic Bed",
         "productNumber": 4
-    },
-    {
-      "productName": "furnitureProduct2",
+      },
+      {
+        "productName": "Heated Bed",
         "productNumber": 5
-    }
+      }
     ]
   },
   {
     "category": "Food",
     "products": [
       {
-        "productName": "toyProduct1",
+        "productName": "Tuna Shrimp",
         "productNumber": 6
       },
       {
-        "productName": "toyProduct2",
+        "productName": "Turkey Cheese",
         "productNumber": 7
       },
       {
-        "productName": "toyProduct1",
+        "productName": "Chicken",
         "productNumber": 8
       },
       {
-        "productName": "toyProduct1",
+        "productName": "Fish Shrimp",
         "productNumber": 9
       },
       {
-        "productName": "toyProduct1",
+        "productName": "Salmon",
         "productNumber": 10
       }
     ]
@@ -78,23 +78,23 @@
     "category": "Accessories",
     "products": [
       {
-        "productName": "litterProduct1",
+        "productName": "Cat Cage",
         "productNumber": 16
       },
       {
-        "productName": "litterProduct2",
+        "productName": "Kennel",
         "productNumber": 17
       },
       {
-        "productName": "litterProduct1",
+        "productName": "Cactus Scratching Post",
         "productNumber": 18
       },
       {
-        "productName": "litterProduct1",
+        "productName": "Cat House",
         "productNumber": 19
       },
       {
-        "productName": "litterProduct1",
+        "productName": "Window Perch",
         "productNumber": 20
       }
     ]
