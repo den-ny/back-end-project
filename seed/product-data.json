@@ -164,15 +164,15 @@
     "productName": "Dust Free Litter",
     "category": "litter",
     "photoSrc": "https://i.imgur.com/JdETVut.jpg",
-    "description": "Dust Free Litter",
+    "description": "Larger litter order! Specially designed for multi-cat households and busy litter boxes.",
     "price": 15.00
   },
   {
     "productNumber": 22,
-    "productName": "Light weight litter",
+    "productName": "Light Weight Litter",
     "category": "litter",
     "photoSrc": "https://i.imgur.com/Ti70XmU.jpg",
-    "description": "Light Weight Litter",
+    "description": "Contains activated charcoal that helps trap and eliminate litter odor for up to 10 days of odor control.",
     "price": 14.00
   },
   {
@@ -180,15 +180,15 @@
     "productName": "Unscented Litter",
     "category": "litter",
     "photoSrc": "https://i.imgur.com/mwLAeh5.jpeg",
-    "description": "Unscented Litter",
+    "description": "Vet-recommended, unscented cat litter made without added fragrances or dyes.",
     "price": 12.00
   },
   {
     "productNumber": 24,
-    "productName": "Natural Litter",
+    "productName": "Ultra Natural Litter",
     "category": "litter",
     "photoSrc": "https://i.imgur.com/FzeoKda.jpg",
-    "description": "Ultra Natural Litter",
+    "description": "The anti-microbial formula helps prevent odors caused by bacteria and provides up to 10 days of odor control.",
     "price": 18.00
   },
   {
@@ -196,7 +196,7 @@
     "productName": "Multi-Cat Litter",
     "category": "litter",
     "photoSrc": "https://i.imgur.com/Y8kFYkA.jpg",
-    "description": "Multi-Cat Litter",
+    "description": "Litter that’s designed to slide easily out of the litter box—reduces scraping and scrubbing.",
     "price": 16.00
   }
 ]
