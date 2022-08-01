@@ -1,162 +1,202 @@
 [
   {
     "productNumber": 1,
-    "productName": "FunitureProduct1",
-    "category": "Furniture",
-    "photoSrc": "../images/furniture-product-1.png",
-    "description": "Description of the product",
-    "price": 20.00
+    "productName": "covered bed",
+    "category": "furniture",
+    "photoSrc": "https://i.imgur.com/BJdQToJ.png",
+    "description": "Enclosed, igloo bed appeals to your cat’s instincts and makes him feel safe and cozy.",
+    "price": 16.65
   },
   {
     "productNumber": 2,
-    "productName": "FunitureProduct2",
-    "category": "Furniture",
-    "photoSrc": "../images/furniture-product-2.png",
-    "description": "Description of the product",
-    "price": 20.00
+    "productName": "bolster bed",
+    "category": "furniture",
+    "photoSrc": "https://i.imgur.com/72fQTR7.png",
+    "description": "Soft and cozy round shaped cat bed.",
+    "price": 11.99
   },
   {
     "productNumber": 3,
-    "productName": "ToyProduct1",
-    "category": "Furniture",
-    "photoSrc": "../images/toy-product-1.png",
-    "description": "Description of the product",
-    "price": 20.00
+    "productName": "pillow bed",
+    "category": "furniture",
+    "photoSrc": "https://i.imgur.com/AGDgFke.png",
+    "description": "Made from 100% ultra-soft polyester fibers that work as an insulator, to absorb and hold heat, keeping your kitty warm and cuddly all year round.",
+    "price": 16.99
   },
   {
     "productNumber": 4,
-    "productName": "ToyProduct2",
-    "category": "Furniture",
-    "photoSrc": "../images/toy-product-2.png",
-    "description": "Description of the product",
-    "price": 20.00
+    "productName": "orthopedic bed",
+    "category": "furniture",
+    "photoSrc": "https://i.imgur.com/cKGwR2C.png",
+    "description": "Provides comfort and security with wrap-around bolster, plush center, 3-inch slab foam and 1-inch memory foam.",
+    "price": 49.99
   },
   {
     "productNumber": 5,
-    "productName": "FoodProduct1",
-    "category": "Furniture",
-    "photoSrc": "../images/food-product-1.png",
-    "description": "Description of the product",
-    "price": 20.00
+    "productName": "heated bed",
+    "category": "furniture",
+    "photoSrc": "https://i.imgur.com/v9q28JE.png",
+    "description": "Lightweight core absorbs and reflects body heat for added warmth and comfort.",
+    "price": 16.99
   },
   {
     "productNumber": 6,
-    "productName": "FoodProduct2",
-    "category": "Food",
-    "photoSrc": "../images/food-product-2.png",
-    "description": "Description of the product",
-    "price": 20.00
+    "productName": "tuna shrimp",
+    "category": "food",
+    "photoSrc": "https://i.imgur.com/OS9IqOZ.jpg",
+    "description": "Real tuna and whole shrimp in a savory sauce",
+    "price": 4.99
   },
   {
     "productNumber": 7,
-    "productName": "LitterProduct1",
-    "category": "Food",
-    "photoSrc": "../images/litter-product-1.png",
-    "description": "Description of the product",
-    "price": 20.00
+    "productName": "turkey cheese",
+    "category": "food",
+    "photoSrc": "https://i.imgur.com/yWhHH8I.jpg",
+    "description": "Features real turkey and cheese for the high-protein nutrition and flavor your little carnivore craves.",
+    "price": 4.99
   },
   {
     "productNumber": 8,
-    "productName": "LitterProduct2",
-    "category": "Food",
-    "photoSrc": "../images/litter-product-2.png",
-    "description": "Description of the product",
-    "price": 20.00
+    "productName": "chicken",
+    "category": "food",
+    "photoSrc": "https://i.imgur.com/3tHHuSN.jpg",
+    "description": "The tasty recipe features real, savory chicken for the high-protein nutrition your little carnivore craves.",
+    "price": 4.99
   },
   {
     "productNumber": 9,
-    "productName": "AccessoriesProduct1",
-    "category": "Food",
-    "photoSrc": "../images/accessories-product-1.png",
-    "description": "Description of the product",
-    "price": 20.00
+    "productName": "fish shrimp",
+    "category": "food",
+    "photoSrc": "https://i.imgur.com/GyD4ZPJ.jpg",
+    "description": "Delightfully tender and perfectly flaked",
+    "price": 4.99
   },
   {
     "productNumber": 10,
-    "productName": "AccessoriesProduct2",
-    "category": "Food",
-    "photoSrc": "../images/accessories-product-2.png",
-    "description": "Description of the product",
-    "price": 20.00
+    "productName": "salmon",
+    "category": "food",
+    "photoSrc": "https://i.imgur.com/KbYC76V.jpg",
+    "description": "Real shredded salmon in sauce for the high-protein nutrition your little carnivore craves.",
+    "price": 4.99
   },
   {
     "productNumber": 11,
-    "productName": "Crinkly Toy Balls",
-    "category": "Toys",
+    "productName": "crinkly toy balls",
+    "category": "toys",
     "photoSrc": "https://i.imgur.com/kIvScHo.jpg",
     "description": "Crinkly toy balls",
     "price": 5.00
   },
   {
     "productNumber": 12,
-    "productName": "Banana Toy",
-    "category": "Toys",
+    "productName": "banana toy",
+    "category": "toys",
     "photoSrc": "https://i.imgur.com/iXo6wwI.jpg",
     "description": "Plush banana filled with catnip",
     "price": 10.00
   },
   {
     "productNumber": 13,
-    "productName": "Butterfly Toy",
-    "category": "Toys",
+    "productName": "butterfly toy",
+    "category": "toys",
     "photoSrc": "https://i.imgur.com/AEHpvmc.jpg",
     "description": "Electric butterflies with spinning balls for cats to chase",
     "price": 40.00
   },
   {
     "productNumber": 14,
-    "productName": "String Teaser Toy",
-    "category": "Toys",
+    "productName": "string teaser toy",
+    "category": "toys",
     "photoSrc": "https://i.imgur.com/Tkv87Ht.jpg",
     "description": "String atttached to pole for cats to chase",
     "price": 10.00
   },
   {
     "productNumber": 15,
-    "productName": "Cat Tunnel",
-    "category": "Toys",
+    "productName": "cat tunnel",
+    "category": "toys",
     "photoSrc": "https://i.imgur.com/ce8nqOQ.jpg",
     "description": "Tunnel for cats to hide, nap, and play in",
     "price": 20.00
   },
   {
+    "productNumber": 16,
+    "productName": "cat cage",
+    "category": "accessories",
+    "photoSrc": "https://i.imgur.com/I4ur5VB.png",
+    "description": "Carrier and portable cat hotel offers a comforting and secure escape for cats.",
+    "price": 39.99
+  },
+  {
+    "productNumber": 17,
+    "productName": "kennel",
+    "category": "accessories",
+    "photoSrc": "https://i.imgur.com/exBVRAW.png",
+    "description": "Convenient top loading closure makes it easily accessible to get your cat in and out.",
+    "price": 19.99
+  },
+  {
+    "productNumber": 18,
+    "productName": "cactus scratching post",
+    "category": "accessories",
+    "photoSrc": "https://i.imgur.com/4tycdTC.png",
+    "description": "Wrapped sisal scratch post promotes satisfying scratches and healthy cat nails.",
+    "price": 22.99
+  },
+  {
+    "productNumber": 19,
+    "productName": "cat house",
+    "category": "accessories",
+    "photoSrc": "https://i.imgur.com/EbCmepf.png",
+    "description": "Comes with three double-sided scratch boards for long-lasting use.",
+    "price": 29.99
+  },
+  {
+    "productNumber": 20,
+    "productName": "window perch",
+    "category": "accessories",
+    "photoSrc": "https://i.imgur.com/y37eMWY.png",
+    "description": "Great for cats that love to perch on the window and keep eye on the neighborhood or bask in the sunlight.",
+    "price": 39.99
+  },
+  {
     "productNumber": 21,
-    "productName": "Dust free Litter",
-    "category": "Litter",
+    "productName": "dust free litter",
+    "category": "litter",
     "photoSrc": "https://i.imgur.com/nJdAoMd.jpeg",
-    "description": "Dust free litter",
+    "description": "Dust Free Litter",
     "price": 15.00
   },
   {
     "productNumber": 22,
-    "productName": "Light Weight Litter",
-    "category": "Litter",
+    "productName": "light weight litter",
+    "category": "litter",
     "photoSrc": "https://i.imgur.com/uMJ37yy.jpg",
     "description": "Light Weight Litter",
     "price": 14.00
   },
   {
     "productNumber": 23,
-    "productName": "Unscented Litter",
-    "category": "Litter",
+    "productName": "unscented litter",
+    "category": "litter",
     "photoSrc": "https://i.imgur.com/xFfbuvj.jpg",
-    "description": "Unscented litter",
+    "description": "Unscented Litter",
     "price": 12.00
   },
   {
     "productNumber": 24,
-    "productName": "Natural Litter",
-    "category": "Litter",
+    "productName": "natural litter",
+    "category": "litter",
     "photoSrc": "https://i.imgur.com/aiUo8w9.jpg",
-    "description": "Ultra Natural litter",
+    "description": "Ultra Natural Litter",
     "price": 18.00
   },
   {
     "productNumber": 25,
-    "productName": "Multi-cat Litter",
-    "category": "Litter",
+    "productName": "multi-cat litter",
+    "category": "litter",
     "photoSrc": "https://i.imgur.com/5GQ8O4K.jpg",
-    "description": "Multi-cat litter",
+    "description": "Multi-Cat Litter",
     "price": 16.00
   }
 ]

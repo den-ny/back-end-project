@@ -3,8 +3,11 @@ import mongoose from 'mongoose'
 const Store = new mongoose.Schema({
   category: String,
   products: [{
+    productNumber: Number,
     productName: String,
-    productNumber: Number
+    photoSrc: String,
+    description: String,
+    price: Number
   }]
 })
 

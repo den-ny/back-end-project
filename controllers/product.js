@@ -10,6 +10,28 @@ export const getAllProducts = async (req, res) => {
   }
 }
 
+export const searchProducts = async (req, res) => {
+  try {
+    const { name } = req.query;
+    const { cat } = req.query;
+    const search = await Product.find({
+      $or: [
+        { productName: { "$regex": `${name}`, "$options": "i" } },
+        { category: { $regex: `${cat}`, $options: "i" } }
+      ]
+    })
+    if (search.length === 0) {
+      return res.send("Product not found")
+    }
+    else
+      return res.send(search)
+  } catch (error) {
+    console.error(error)
+    res.json(error)
+  }
+}
+
+
 export const getProduct = async (req, res) => {
   try {
     const { id } = req.params
@@ -28,4 +50,3 @@ export const getProduct = async (req, res) => {
     res.json(error)
   }
 }
-
