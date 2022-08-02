@@ -1,6 +1,7 @@
 import { Router } from 'express'
 import products from './products.js'
 import category from './category.js'
+import cart from './cart.js'
 
 const router = Router()
 
@@ -10,6 +11,7 @@ router.get('/api', (req, res) => {
 
 router.use("/api/products", products)
 router.use("/api/category", category)
+router.use("/api/cart", cart)
 
 
 export default router
