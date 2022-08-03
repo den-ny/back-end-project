@@ -12,7 +12,7 @@ export const getCart = async (req, res) => {
 
 export const createCart = async (req, res) => {
   try {
-    const { price, productNumber, productName } = req.body
+    const { price, productNumber, productName, photoSrc } = req.body
 
     const cart = new Cart({
       "productNumber": productNumber,
