@@ -15,9 +15,10 @@ export const createCart = async (req, res) => {
     const { price, productNumber, productName } = req.body
 
     const cart = new Cart({
-      "price": price,
       "productNumber": productNumber,
       "productName": productName,
+      "photoSrc": photoSrc,
+      "price": price,
       "quantity": 1,
       "totalPrice": price
     })
