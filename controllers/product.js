@@ -21,7 +21,7 @@ export const searchProducts = async (req, res) => {
       ]
     })
     if (search.length === 0) {
-      return res.send("Product not found")
+      return res.json("Product not found")
     }
     else
       return res.send(search)
@@ -37,13 +37,12 @@ export const getProduct = async (req, res) => {
     const { id } = req.params
     const product = await Product.findOne({
       productNumber: id
-
     })
     if (product) {
       return res.json(product)
     }
     else {
-      res.send("Product does not exist")
+      res.json("Product does not exist")
     }
   } catch (error) {
     console.error(error)

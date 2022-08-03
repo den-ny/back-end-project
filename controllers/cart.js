@@ -12,12 +12,13 @@ export const getCart = async (req, res) => {
 
 export const createCart = async (req, res) => {
   try {
-    const { price, productNumber, productName } = req.body
+    const { price, productNumber, productName, photoSrc } = req.body
 
     const cart = new Cart({
-      "price": price,
       "productNumber": productNumber,
       "productName": productName,
+      "photoSrc": photoSrc,
+      "price": price,
       "quantity": 1,
       "totalPrice": price
     })
